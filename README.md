@@ -1,2 +1,2 @@
-# mvp-machine-learning-sono
-Projeto acadêmico de Machine Learning e Analytics - Classificação de Distúrbios do Sono.
+# mvp-machine-learning-credit-risk
+Projeto acadêmico de Machine Learning e Analytics - Previsão de Inadimplência utilizando Machine Learning.
