@@ -34,7 +34,7 @@ Random Forest otimizado utilizando RandomizedSearchCV.
 
 ## Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deliannepurgato/mvp-machine-learning-credit-risk/blob/main/PROJETO_MVP_DADOS.ipynb)
 
 
 [Abrir Notebook no Google Colab](https://colab.research.google.com/github/deliannepurgato/mvp-machine-learning-credit-risk/blob/main/PROJETO_MVP_DADOS.ipynb)
