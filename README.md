@@ -28,7 +28,7 @@ Random Forest otimizado utilizando RandomizedSearchCV.
 
 ## Estrutura do Repositório
 
-* 'MVP_Credit_Risk.ipynb' - Notebook principal do projeto
+* 'PROJETO_MVP_DADOS.ipynb' - Notebook principal do projeto
 * 'credit_risk_dataset.csv' - Conjunto de dados utilizado
 * 'README.md' - Informações gerais do projeto
 
